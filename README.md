@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python applications for Maya**
 
-- 📫 How to reach me **cizfilho@gmail.com**
+- 📫 How to reach me **cizotonf@gmail.com**
 
 - ⚡ Fun fact **I also create content for 250,000 subscribers on my YouTube channel :)**
 
