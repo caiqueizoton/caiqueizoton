@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Izoton</h1>
 <h3 align="center">A dedicated automation engineer living in Vancouver</h3>
 
-- 🔭 I’m currently working on [PNG to JPG Converter](https://github.com/caiqueizoton/PNGImageConverter/tree/main)
+- 🔭 I’m currently working on a [Maya Building Generator]([https://github.com/caiqueizoton/maya-building-generator])
 
 - 🌱 I’m currently learning **Python applications for Maya**
 
