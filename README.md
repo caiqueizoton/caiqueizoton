@@ -5,7 +5,7 @@
 
 | Project Title            | Repository Link                        |
 |--------------------------|----------------------------------------|
-| **Building Generator**    | [GitHub Repo](https://github.com/caiqueizoton/maya-building-generator) |
+| **Maya Building Generator**    | [GitHub Repo](https://github.com/caiqueizoton/maya-building-generator) |
 | **Image File Converter**  | [GitHub Repo](https://github.com/caiqueizoton/PNGFileConverter) |
 
 - 🌱 I’m currently learning **Python applications for Maya**
