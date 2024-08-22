@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carlos Izoton</h1>
 <h3 align="center">Automation engineer living in Vancouver</h3>
 
-- 🔭 I’m currently working on a [Maya Building Generator](https://github.com/caiqueizoton/maya-building-generator)
+## My Projects
+
+| Project Title            | Repository Link                        |
+|--------------------------|----------------------------------------|
+| **Building Generator**    | [GitHub Repo](https://github.com/caiqueizoton/maya-building-generator) |
+| **Image File Converter**  | [GitHub Repo](https://github.com/caiqueizoton/PNGFileConverter) |
 
 - 🌱 I’m currently learning **Python applications for Maya**
 
